@@ -40,6 +40,7 @@ Models used: LogisticRegression, DecisionTreeClassifier, RandomForestClassifier,
 ## Future Direction
 
 Some things can definitely be improved, from removing irrelevant data to hyperparameter tuning for some models.
+One thing I try to do is use all the models built to make an ensemble, taking the output of the majority to get the most accurate results.
 
 ## Contributing
 
