@@ -1,4 +1,5 @@
-﻿# billionaires-mile-low-club
+﻿# Titantic Survival Analysis - A Data Science View
+ 
 ---
 A data science project exploring the Titanic dataset to uncover factors influencing survival rates. This analysis utilizes data cleaning, exploratory data analysis (EDA), feature engineering, and machine learning modeling to predict passenger outcomes.
 
